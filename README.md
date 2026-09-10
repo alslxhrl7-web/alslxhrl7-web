@@ -1,16 +1,41 @@
-## Hi there 👋
-
-<!--
-**alslxhrl7-web/alslxhrl7-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+README
+안녕하세요, 나민재입니다 ​
+공공경영을 전공하며 문제를 구조화하고 실행 가능한 전략으로 바꾸는 과정에 관심을 갖고 있습니다.
+전략 게임을 좋아하며, 게임·AI·데이터를 활용해 더 나은 사용자 경험을 만드는 프로젝트를 준비하고 있습니다.
+About Me
+ 공공경영 전공
+ AI와 게임 분야에 관심이 있습니다.
+ 전략 게임을 즐기며 시스템과 밸런스를 분석하는 것을 좋아합니다.
+ 복잡한 문제를 정리하고 해결 방법을 설계하는 데 강점이 있습니다.
+ 현재 프로젝트 경험과 역량을 꾸준히 쌓고 있습니다.
+Interests
+Game Planning & Strategy
+Artificial Intelligence
+Data Analysis
+Project Management
+User Experience
+Projects
+프로젝트
+설명
+역할·기술
+Project 01
+프로젝트에 대한 한 줄 설명을 입력하세요.
+기획 · 분석
+Project 02
+해결한 문제와 결과를 간단히 입력하세요.
+AI · 데이터
+Project 03
+팀 또는 개인 프로젝트를 소개하세요.
+협업 · 문서화
+각 프로젝트 이름을 저장소 링크로 바꾸고, 본인이 맡은 역할과 결과를 숫자로 표현하면 더 좋은 포트폴리오가 됩니다.
+Tech & Tools
+<!-- 사용하지 않는 기술은 삭제하고, 실제로 활용할 수 있는 도구를 추가하세요. -->
+Goals
+게임과 AI를 연결한 프로젝트 완성하기
+데이터에 근거한 기획 역량 강화하기
+아이디어부터 결과물까지 전 과정을 기록하고 공유하기
+Contact
+Email: alslxhrl7@gmail.com
+Portfolio: 준비 중
+Blog: 준비 중
+꾸준히 배우고, 직접 만들고, 기록하며 성장하겠습니다.
