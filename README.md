@@ -49,15 +49,27 @@
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-Learning-46A171?style=for-the-badge)
 ![Game Planning](https://img.shields.io/badge/Game_Planning-Interested-D5803B?style=for-the-badge)
 
-## 🚀 Projects
+## 🚀 # Red-Cliff-Hidden-Truth (赤壁前夜)
 
-| Project | Description | Role & Skills |
-| :--- | :--- | :--- |
-| **AI × Game Project** | AI를 게임 또는 게임 서비스에 활용하는 개인 프로젝트 | 기획 · 리서치 · AI 활용 |
-| **Strategy Game Analysis** | 전략 게임의 시스템과 밸런스를 분석하고 개선점을 정리하는 프로젝트 | 시스템 분석 · 문서화 |
-| **Portfolio Hub** | 프로젝트와 경험을 한곳에 정리하는 개인 포트폴리오 | Notion · GitHub |
+> 적벽 출진 전날, 사라진 함선 배치도와 독살된 장수. 조조군의 패배는 이미 시작된 것인가?
 
-> 프로젝트가 완성되면 프로젝트 이름에 저장소 링크를 연결하고, 결과와 본인의 역할을 구체적으로 추가할 예정입니다.
+적벽대전을 배경으로 한 텍스트·정지컷 기반 추리 비주얼노벨입니다.
+
+---
+
+## 📖 게임 소개
+
+| 항목 | 내용 |
+|------|------|
+| 장르 | 비주얼노벨 (추리) |
+| 배경 | 208년 겨울, 적벽대전 출진 직전 조조군 수군 진영 |
+| 플레이 타임 | 1회 15~20분 |
+| 플랫폼 | PC |
+| 등장인물 | 용의자 1명 (채모) |
+| 단서 | 3개 |
+| 엔딩 | 3개 (A / B / C) |
+
+독살된 장수와 사라진 함선 배치도를 두고, 유력 용의자 채모(蔡瑁)를 심문하며 진실에 접근하는 미니 추리 비주얼노벨입니다. 플레이어는 조조의 명을 받은 임시 군사 참모로서 화면에 모습을 드러내지 않고 1인칭 시점으로 사건을 조사합니다.
 
 ## 📈 GitHub Activity
 
