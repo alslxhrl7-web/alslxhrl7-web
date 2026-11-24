@@ -23,6 +23,15 @@
 <tr>
 <td width="50%" valign="top">
 
+### 🎖️ [다섯 개의 강 — AI 에셋 게임용 정리](https://github.com/alslxhrl7-web/blender-ai-game-assets-guide)
+**3D 아트 파이프라인** · VARCO 3D · Blender · Unity
+
+6.25전쟁 1인칭 FPS 기획의 리소스 3종을 VARCO 3D로 생성하고 Blender로 게임 규격에 맞춘 과정.
+삼각형 수 최대 91.9% 감소, Unity에서 Rotation 0 / Scale 1, Idle·Walk 반복 클립까지 정리했습니다.
+
+</td>
+<td width="50%" valign="top">
+
 ### 🐱 [냥펀치](https://github.com/alslxhrl7-web/nyangpunch)
 **방치형 머지 + 턴제 퍼즐** · Unity 6 · C#
 
@@ -30,15 +39,6 @@
 은신처(방치·머지)와 거실 방어(퍼즐)가 서로 보상을 주고받는 두 축 구조로 설계했습니다.
 
 ▶ [브라우저에서 바로 플레이 (itch.io)](https://na-min-jea.itch.io/nyangpunch)
-
-</td>
-<td width="50%" valign="top">
-
-### 🗣️ [KoPrompt](https://github.com/alslxhrl7-web/KoPrompt)
-**오프라인 AI 도구** · C# · llama.cpp
-
-은어·비속어가 섞인 한국어 그림 설명을 Stable Diffusion·NovelAI 태그나 Midjourney·Flux용 영어 프롬프트로 바꾸는 Windows 프로그램.
-인터넷 없이 로컬 AI로 동작합니다. (MIT)
 
 </td>
 </tr>
@@ -54,30 +54,30 @@
 </td>
 <td width="50%" valign="top">
 
-### 🕶️ [Shadow Protocol](https://github.com/alslxhrl7-web/ShadowProtocol)
-**3인칭 잠입 액션 데모** · Unity 6 · HDRP
+### 🗣️ [KoPrompt](https://github.com/alslxhrl7-web/KoPrompt)
+**오프라인 AI 도구** · C# · llama.cpp
 
-밤 창고에 침투해 서버실 데이터 코어를 확보하고 탈출하는 잠입 게임.
-경비 AI가 플레이어가 자주 쓰는 길·엄폐물을 기억했다가 다시 도전할 때 감시를 옮기는 **적응형 경비**가 핵심이며, 항상 3개 이상의 경로가 열리도록 설계했습니다.
+은어·비속어가 섞인 한국어 그림 설명을 Stable Diffusion·NovelAI 태그나 Midjourney·Flux용 영어 프롬프트로 바꾸는 Windows 프로그램.
+인터넷 없이 로컬 AI로 동작합니다. (MIT)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎖️ [다섯 개의 강 — AI 에셋 게임용 정리](https://github.com/alslxhrl7-web/blender-ai-game-assets-guide)
-**3D 아트 파이프라인** · VARCO 3D · Blender · Unity
-
-6.25전쟁 1인칭 FPS 기획의 리소스 3종을 VARCO 3D로 생성하고 Blender로 게임 규격에 맞춘 과정.
-삼각형 수 최대 91.9% 감소, Unity에서 Rotation 0 / Scale 1, Idle·Walk 반복 클립까지 정리했습니다.
-
-</td>
-<td width="50%" valign="top">
-
 ### 📁 [Portfolio](https://github.com/alslxhrl7-web/portfolio)
 **게임 기획 포트폴리오** · PDF · 플레이 영상
 
 게임 기획 포트폴리오 PDF와 플레이 영상을 한곳에 모았습니다.
+
+</td>
+<td width="50%" valign="top">
+
+### 🕶️ [Shadow Protocol](https://github.com/alslxhrl7-web/ShadowProtocol)
+**3인칭 잠입 액션 데모** · Unity 6 · HDRP
+
+밤 창고에 침투해 서버실 데이터 코어를 확보하고 탈출하는 잠입 게임.
+경비 AI가 플레이어가 자주 쓰는 길·엄폐물을 기억했다가 다시 도전할 때 감시를 옮기는 **적응형 경비**가 핵심이며, 항상 3개 이상의 경로가 열리도록 설계했습니다.
 
 </td>
 </tr>
