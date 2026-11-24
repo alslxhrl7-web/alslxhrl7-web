@@ -54,7 +54,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🪖 [다섯 개의 강 — AI 에셋 게임용 정리](https://github.com/alslxhrl7-web/blender-ai-game-assets-guide)
+### 🎖️ [다섯 개의 강 — AI 에셋 게임용 정리](https://github.com/alslxhrl7-web/blender-ai-game-assets-guide)
 **3D 아트 파이프라인** · VARCO 3D · Blender · Unity
 
 6.25전쟁 1인칭 FPS 기획의 리소스 3종을 VARCO 3D로 생성하고 Blender로 게임 규격에 맞춘 과정.
