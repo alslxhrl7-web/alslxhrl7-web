@@ -45,13 +45,24 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎲 다이스 하이스트
+### 🎲 [다이스 하이스트](https://github.com/alslxhrl7-web/dice-heist)
 **주사위 포커 베팅 게임** · Unity 6 · ASP.NET Core · SignalR
 
 동물 캐릭터들이 주사위 5개로 포커 족보를 겨루는 게임.
 테이블 등급별 AI 승률을 목표치(브론즈 약 70%, 실버 약 60%)에 맞춰 조정하고 테스트로 지키며, 같은 규칙 코드로 PC 싱글과 브라우저 멀티를 함께 운영합니다.
 
 </td>
+<td width="50%" valign="top">
+
+### 🕶️ [Shadow Protocol](https://github.com/alslxhrl7-web/ShadowProtocol)
+**3인칭 잠입 액션 데모** · Unity 6 · HDRP
+
+밤 창고에 침투해 서버실 데이터 코어를 확보하고 탈출하는 잠입 게임.
+경비 AI가 플레이어가 자주 쓰는 길·엄폐물을 기억했다가 다시 도전할 때 감시를 옮기는 **적응형 경비**가 핵심이며, 항상 3개 이상의 경로가 열리도록 설계했습니다.
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎖️ [다섯 개의 강 — AI 에셋 게임용 정리](https://github.com/alslxhrl7-web/blender-ai-game-assets-guide)
@@ -61,6 +72,14 @@
 삼각형 수 최대 91.9% 감소, Unity에서 Rotation 0 / Scale 1, Idle·Walk 반복 클립까지 정리했습니다.
 
 </td>
+<td width="50%" valign="top">
+
+### 📁 [Portfolio](https://github.com/alslxhrl7-web/portfolio)
+**게임 기획 포트폴리오** · PDF · 플레이 영상
+
+게임 기획 포트폴리오 PDF와 플레이 영상을 한곳에 모았습니다.
+
+</td>
 </tr>
 </table>
 
@@ -68,7 +87,6 @@
 <summary><b>📜 그 밖의 작업</b></summary>
 
 - **적벽전야 (赤壁前夜)** — 적벽대전 출진 전날, 사라진 함선 배치도와 독살된 장수를 쫓는 15~20분 분량의 추리 비주얼노벨 기획 (용의자 1명 · 단서 3개 · 엔딩 3개)
-- **[portfolio](https://github.com/alslxhrl7-web/portfolio)** — 게임 기획 포트폴리오 PDF와 플레이 영상
 - **[ColorRun-Nmj](https://github.com/alslxhrl7-web/ColorRun-Nmj)**, **[CSharpPracticegame](https://github.com/alslxhrl7-web/CSharpPracticegame)** — Unity·C# 연습 프로젝트
 
 </details>
